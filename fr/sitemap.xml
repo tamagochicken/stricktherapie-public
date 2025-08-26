@@ -9,12 +9,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/de/posts/my-first-post/"
+                href="https://www.stricktherapie.ch/posts/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/posts/my-first-post/"
+                href="https://www.stricktherapie.ch/en/posts/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,13 +33,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="de"
                 href="https://www.stricktherapie.ch/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.stricktherapie.ch/de/posts/"
+                hreflang="en"
+                href="https://www.stricktherapie.ch/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,12 +59,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/"
+                href="https://www.stricktherapie.ch/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/de/"
+                href="https://www.stricktherapie.ch/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,13 +82,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="de"
                 href="https://www.stricktherapie.ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.stricktherapie.ch/de/categories/"
+                hreflang="en"
+                href="https://www.stricktherapie.ch/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,13 +106,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="de"
                 href="https://www.stricktherapie.ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.stricktherapie.ch/de/tags/"
+                hreflang="en"
+                href="https://www.stricktherapie.ch/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
