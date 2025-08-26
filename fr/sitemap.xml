@@ -18,6 +18,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://www.stricktherapie.ch/it/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="https://www.stricktherapie.ch/jp/posts/my-first-post/"
                 />
@@ -40,6 +45,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.stricktherapie.ch/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.stricktherapie.ch/it/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,6 +78,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://www.stricktherapie.ch/it/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="https://www.stricktherapie.ch/jp/"
                 />
@@ -92,6 +107,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://www.stricktherapie.ch/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="https://www.stricktherapie.ch/jp/categories/"
                 />
@@ -113,6 +133,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.stricktherapie.ch/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.stricktherapie.ch/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
