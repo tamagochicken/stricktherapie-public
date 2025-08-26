@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://www.stricktherapie.ch/posts/my-first-post/</loc>
-    <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.stricktherapie.ch/posts/</loc>
-    <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.stricktherapie.ch/</loc>
-    <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-  </url><url>
-    <loc>https://www.stricktherapie.ch/categories/</loc>
-  </url><url>
-    <loc>https://www.stricktherapie.ch/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://www.stricktherapie.ch/de/sitemap.xml</loc>
+    
+      <lastmod>2025-08-25T17:59:30+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.stricktherapie.ch/en/sitemap.xml</loc>
+    
+      <lastmod>2025-08-25T17:59:30+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.stricktherapie.ch/fr/sitemap.xml</loc>
+    
+      <lastmod>2025-08-25T17:59:30+02:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
