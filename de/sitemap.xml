@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.stricktherapie.ch/posts/my-first-post/</loc>
+    <loc>https://www.stricktherapie.ch/de/posts/my-first-post/</loc>
     <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/en/posts/my-first-post/"
+                href="https://www.stricktherapie.ch/posts/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -18,18 +18,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://www.stricktherapie.ch/jp/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/posts/my-first-post/"
+                href="https://www.stricktherapie.ch/de/posts/my-first-post/"
                 />
   </url><url>
-    <loc>https://www.stricktherapie.ch/posts/</loc>
+    <loc>https://www.stricktherapie.ch/de/posts/</loc>
     <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/en/posts/"
+                href="https://www.stricktherapie.ch/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,18 +43,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://www.stricktherapie.ch/jp/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/posts/"
+                href="https://www.stricktherapie.ch/de/posts/"
                 />
   </url><url>
-    <loc>https://www.stricktherapie.ch/</loc>
+    <loc>https://www.stricktherapie.ch/de/</loc>
     <lastmod>2025-08-25T17:59:30+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/en/"
+                href="https://www.stricktherapie.ch/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,17 +68,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://www.stricktherapie.ch/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/"
+                href="https://www.stricktherapie.ch/de/"
                 />
   </url><url>
-    <loc>https://www.stricktherapie.ch/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.stricktherapie.ch/de/categories/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/en/categories/"
+                href="https://www.stricktherapie.ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,17 +92,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://www.stricktherapie.ch/jp/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/categories/"
+                href="https://www.stricktherapie.ch/de/categories/"
                 />
   </url><url>
-    <loc>https://www.stricktherapie.ch/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.stricktherapie.ch/de/tags/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.stricktherapie.ch/en/tags/"
+                href="https://www.stricktherapie.ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -96,8 +116,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://www.stricktherapie.ch/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://www.stricktherapie.ch/tags/"
+                href="https://www.stricktherapie.ch/de/tags/"
                 />
   </url>
 </urlset>
