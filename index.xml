@@ -15,5 +15,12 @@
       <guid>https://www.stricktherapie.ch/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;hallo-welt&#34;&gt;Hallo Welt&lt;/h2&gt;&#xA;&lt;p&gt;Hallo Gute&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Es soll Spaß machen</title>
+      <link>https://www.stricktherapie.ch/posts/next/</link>
+      <pubDate>Mon, 25 Aug 2025 17:59:30 +0200</pubDate>
+      <guid>https://www.stricktherapie.ch/posts/next/</guid>
+      <description>&lt;h2 id=&#34;ein-weiterer-beitrag&#34;&gt;Ein weiterer Beitrag&lt;/h2&gt;&#xA;&lt;p&gt;mir fällt nichts ein.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.stricktherapie.ch/images/knit2.jpeg&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hier geht der text weiter.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
