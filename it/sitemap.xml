@@ -68,13 +68,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.stricktherapie.ch/en/"
+                hreflang="de"
+                href="https://www.stricktherapie.ch/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.stricktherapie.ch/"
+                hreflang="en"
+                href="https://www.stricktherapie.ch/en/"
                 />
     <xhtml:link
                 rel="alternate"
